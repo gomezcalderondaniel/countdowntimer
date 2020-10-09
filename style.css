@@ -1,11 +1,14 @@
-
+@font-face {
+   font-family: coffeeandtea;
+   src: url(coffee+teademo-Regular.ttf);
+}
 
 *  {
     box-sizing: border-box;
 }
 
 body {
-    font-family: "coffee+tea Medium";
+    font-family: "coffeeandtea";
     margin: 0;
     background-image: url("isabella-and-louisa-fischer-sQoIRY84a2E-unsplash.jpg");
     background-size: cover;
