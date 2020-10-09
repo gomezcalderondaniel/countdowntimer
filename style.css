@@ -1,0 +1,50 @@
+
+
+*  {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "coffee+tea Medium";
+    margin: 0;
+    background-image: url("assets/images/isabella-and-louisa-fischer-sQoIRY84a2E-unsplash.jpg");
+    background-size: cover;
+    min-height: 100vh;
+    margin: 0;
+    background-position: center center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+
+
+}
+
+h1{
+    font-size: 4rem;
+
+}
+
+.countdown-container {
+    display: flex;
+
+}
+
+.big-text {
+    font-size: 2rem;
+    line-height: 1;
+    margin: 0 2rem;
+
+}
+
+.countdown-e{
+    text-align: center;
+
+}
+
+.countdown-e span{
+    font-size: 1.5rem;
+
+}
+
+
