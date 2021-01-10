@@ -4,7 +4,7 @@ const minutesEl = document.getElementById("minutes");
 const secondsEl = document.getElementById("seconds");
 
 
-const bday = "10 Jan 2021";
+const bday = "10 Jan 2022";
 
 function countdown(){
     const bdayDate = new Date(bday);
