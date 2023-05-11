@@ -4,7 +4,7 @@ const minutesEl = document.getElementById("minutes");
 const secondsEl = document.getElementById("seconds");
 
 
-const bday = "10 Jan 2023";
+const bday = "10 Jan 2024";
 
 
 var Input = {
